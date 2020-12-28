@@ -8,6 +8,6 @@
                 
                 Language used: Html ,css, javascript .Text editor : Vs Code .Framework used : bootstrap 
                 
-                -----base template------ 
+                -----Credit  template used------ 
                 https://www.tooplate.com/view/2117-infinite-loop
                 
